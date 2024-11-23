@@ -1,0 +1,15 @@
+{
+  "name": "mega",
+  "version": "1.0.0",
+  "main": "cryptojs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}
