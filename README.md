@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Megatube and Upcloud Scraper Development Environment
 
 ## Setup
@@ -33,4 +33,4 @@ You can reach out and get support on Discord: [Join here](https://discord.gg/aAP
 - Creating an npm package (🚧 In Progress)
 
 Happy hacking! ✨
-```
+
